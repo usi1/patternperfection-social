@@ -1,0 +1,123 @@
+{
+  "week_of": "2026-10-26",
+  "posts": [
+    {
+      "date": "2026-10-26",
+      "format": "carousel",
+      "series": "Sewing basics",
+      "topic": "Pattern symbols: grainline, place on fold, notches",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "3 pattern symbols every beginner should know",
+          "subtitle": "Read these right and your garment hangs, matches and fits the way it was designed to.",
+          "icon": "scissors"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "The grainline",
+          "icon": "grainline",
+          "body": "This long double arrow must run parallel to the selvedge. Measure from both ends of the arrow to the edge of the fabric: when the two numbers match, pin it down."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Place on fold",
+          "icon": "fold",
+          "body": "A bracket with arrows means this edge goes exactly on the folded edge of your fabric. Don't cut along it: you'll get one symmetrical piece twice as wide."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Notches",
+          "icon": "notch",
+          "body": "These little triangles are matching points. Snip them into the seam allowance (never past it), then line them up when you sew so the pieces join perfectly."
+        },
+        {
+          "type": "cta",
+          "title": "Save this for your next project",
+          "body": "Every Pattern Perfection pattern explains its symbols step by step, so you never have to guess.",
+          "button": "patternperfection.store"
+        }
+      ],
+      "caption_ig": "Pattern symbols look like a secret code, but they're your best friend once you can read them 🪡\n\nSwipe for the 3 you'll see on almost every pattern: grainline, place on fold and notches.\n\nWhich symbol confused you most when you started? 👇\n\nSave this post for your next cutting day ✂️\n\n#sewingforbeginners #sewingpatterns #learntosew #sewingtips #isew",
+      "caption_fb": "New to sewing? These 3 pattern symbols will save you a lot of unpicking 🪡\n\n1️⃣ Grainline – keep the arrow parallel to the selvedge\n2️⃣ Place on fold – that edge goes on the folded fabric, no cutting\n3️⃣ Notches – your matching points when sewing pieces together\n\nAll our patterns come with step-by-step instructions that explain every symbol: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-10-28",
+      "format": "single",
+      "series": "Fabric tip",
+      "topic": "Pre-wash fabric before cutting",
+      "slides": [
+        {
+          "type": "single_tip",
+          "title": "Always pre-wash your fabric before you cut",
+          "icon": "wash",
+          "body": "Cotton, linen and viscose can shrink after the first wash. Wash and dry your fabric the same way you'll care for the finished garment, then press it and cut. Your perfect fit stays perfect."
+        }
+      ],
+      "caption_ig": "The sewing tip nobody tells you until it's too late: pre-wash your fabric 🧺\n\nNatural fibres like cotton, linen and viscose can shrink in the first wash. Sew first, wash later, and your perfectly fitted garment can come out a size smaller.\n\nWash and dry it exactly how you'll care for the finished piece, press, then cut ✂️\n\nDo you always pre-wash? Be honest 😅\n\n#sewingtips #fabric #sewingforbeginners #sewinghacks #isew",
+      "caption_fb": "Quick fabric tip before your next project 🧺\n\nAlways pre-wash your fabric before cutting. Cotton, linen and viscose can shrink after the first wash, and you don't want that to happen to a finished garment.\n\nWash and dry it the same way you'll wash the finished piece, give it a press, and then cut. Do you pre-wash, or do you live dangerously? 😄"
+    },
+    {
+      "date": "2026-10-30",
+      "format": "carousel",
+      "series": "Fit & sizing",
+      "topic": "Choosing your size XS-XL with US/UK sizing",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "How to choose your pattern size (XS–XL)",
+          "subtitle": "Spoiler: it's probably not the size you buy in shops. Here's how to get it right first time.",
+          "icon": "size"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Measure, don't guess",
+          "icon": "tape",
+          "body": "Wear thin clothes and measure your full bust, natural waist and fullest hip, keeping the tape level and snug but not tight. Write the numbers down."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Compare with the size chart",
+          "icon": "size",
+          "body": "Use the size chart on the pattern, not your ready-to-wear size. Ours follow US and UK standards from XS to XL, so you can compare your numbers directly."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Between sizes? Blend them",
+          "icon": "grade",
+          "body": "Choose tops by bust and skirts by hip. If you sit between sizes, draw a smooth line from one size to the other at the waist. It's called grading, and it's easy."
+        },
+        {
+          "type": "cta",
+          "title": "Find your perfect fit",
+          "body": "Every pattern includes sizes XS–XL with US and UK sizing and a clear size chart.",
+          "button": "Shop the patterns"
+        }
+      ],
+      "caption_ig": "Your pattern size and your shop size are rarely the same, and that's completely normal 📏\n\nSwipe for 3 steps to choose the right size every time: measure, check the chart, blend between sizes if you need to.\n\nAll our patterns come in XS–XL with US & UK sizing, so you can sew something that actually fits you.\n\nSave this for your next pattern 🪡\n\n#sewingpatterns #sewingforbeginners #fittingtips #sewingtips #memade",
+      "caption_fb": "How do you choose the right pattern size? 📏\n\n1️⃣ Measure your bust, waist and hip\n2️⃣ Compare with the pattern's size chart (not your shop size!)\n3️⃣ Between sizes? Blend from one to the other at the waist\n\nOur patterns come in XS–XL with US and UK sizing: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-01",
+      "format": "single",
+      "series": "Community",
+      "topic": "Autumn project question: Coat or Hoodie",
+      "slides": [
+        {
+          "type": "question",
+          "title": "Your autumn sewing project: a cosy Coat or a comfy Hoodie?",
+          "body": "Both patterns come in XS–XL with US & UK sizing and step-by-step instructions.",
+          "prompt": "Coat or Hoodie? Comment below ↓"
+        }
+      ],
+      "caption_ig": "Autumn is here and the sewing room is calling 🍂\n\nSo tell us: what's next on your machine?\n\n🧥 A cosy Coat\n👕 A comfy Hoodie\n\nComment COAT or HOODIE below 👇 Both patterns are in the shop (link in bio), in sizes XS–XL.\n\n#sewingcommunity #autumnsewing #sewingpatterns #memade #isew",
+      "caption_fb": "Autumn sewing plans? 🍂\n\nWe want to know what's next on your machine: a cosy Coat 🧥 or a comfy Hoodie 👕? Let us know in the comments!\n\nBoth patterns come in XS–XL with US and UK sizing:\nhttps://www.patternperfection.store/collections/all"
+    }
+  ]
+}
