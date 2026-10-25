@@ -1,0 +1,123 @@
+{
+  "week_of": "2026-10-26",
+  "posts": [
+    {
+      "date": "2026-10-26",
+      "format": "carousel",
+      "series": "Sewing basics",
+      "topic": "Seam allowance: what it is, checking it, sewing it accurately",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Seam allowance, explained in 3 simple steps",
+          "subtitle": "That little strip between the stitching and the edge decides whether your garment fits. Here's how to get it right.",
+          "icon": "scissors"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Know what it is",
+          "icon": "tape",
+          "body": "Seam allowance is the distance between your stitching line and the cut edge of the fabric. Sew wider or narrower than planned and the whole garment changes size."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Check your pattern first",
+          "icon": "notch",
+          "body": "Before you cut, read the instructions to see how much seam allowance is included. Some patterns add it for you, others ask you to add it yourself."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Sew it accurately",
+          "icon": "dots",
+          "body": "Line the fabric edge up with the matching line on your machine's needle plate. Watch the guide, not the needle, and sew slowly round curves."
+        },
+        {
+          "type": "cta",
+          "title": "Save this for sewing day",
+          "body": "Every Pattern Perfection pattern tells you the seam allowance and walks you through each seam step by step.",
+          "button": "patternperfection.store"
+        }
+      ],
+      "caption_ig": "If your finished garment came out a little too big or too small, the seam allowance might be the culprit 🪡\n\nSwipe for 3 steps to master it: know what it is, check how much your pattern includes, and sew it accurately using the guide on your needle plate.\n\nA tiny difference on every seam adds up fast, so it's worth getting right.\n\nSave this for your next project and tell us: do you use a magnetic seam guide? 👇\n\n#sewingforbeginners #sewingtips #learntosew #sewingpatterns #isew",
+      "caption_fb": "Why does seam allowance matter so much? 🪡\n\nA few millimetres too wide or too narrow on every seam, and your garment ends up a different size.\n\n1️⃣ Know what it is: the distance from stitching line to cut edge\n2️⃣ Check how much your pattern includes before cutting\n3️⃣ Follow the guide on your needle plate, not the needle\n\nOur patterns explain every step clearly: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-10-28",
+      "format": "single",
+      "series": "Fabric tip",
+      "topic": "Cutting napped and directional fabrics in one direction",
+      "slides": [
+        {
+          "type": "single_tip",
+          "title": "Velvet or one-way prints? Cut one way",
+          "icon": "grainline",
+          "body": "Velvet, corduroy and directional prints look different upside down. Lay every pattern piece pointing the same way before you cut."
+        }
+      ],
+      "caption_ig": "Ever finished a project and noticed one panel looks a shade darker? 🤔\n\nVelvet, corduroy and other fabrics with a pile (called nap) reflect light differently depending on direction. One-way prints can end up upside down too.\n\nThe fix: lay every pattern piece with its top pointing the same way before you cut ✂️ It uses a bit more fabric, so buy a little extra.\n\nSave this for your autumn velvet and cord projects 🍂\n\n#sewingtips #fabric #sewingforbeginners #sewinghacks #isew",
+      "caption_fb": "Quick fabric tip for autumn sewing 🍂\n\nVelvet, corduroy and one-way prints change colour or direction depending on how you cut them. Lay all your pattern pieces with the top pointing the same way, and buy a little extra fabric to allow for it.\n\nHave you ever been caught out by a shiny-then-dull velvet panel? 😅"
+    },
+    {
+      "date": "2026-10-30",
+      "format": "carousel",
+      "series": "Fit & sizing",
+      "topic": "Lengthening and shortening a pattern",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "How to lengthen or shorten a pattern",
+          "subtitle": "Your size fits but the length doesn't? It's one of the easiest adjustments to make before you cut.",
+          "icon": "lengthen"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Compare the lengths",
+          "icon": "tape",
+          "body": "Measure your back waist length or a garment you love and compare it with the pattern. XS to XL charts assume a standard height."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Use the adjustment lines",
+          "icon": "lengthen",
+          "body": "Cut along the lengthen or shorten line. To add length, spread the pieces and tape paper behind. To remove length, fold out an even tuck."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Redraw the side seams",
+          "icon": "grade",
+          "body": "Your seams will now have a little step. Join the edges with a smooth line, then repeat the same change on every matching piece."
+        },
+        {
+          "type": "cta",
+          "title": "Sew it to your length",
+          "body": "Our patterns come in sizes XS to XL with US and UK sizing and clear step-by-step instructions.",
+          "button": "Shop the patterns"
+        }
+      ],
+      "caption_ig": "Right size, wrong length? You don't need a different pattern, just a 5-minute adjustment 📏\n\nSwipe to see how: compare the lengths, use the lengthen/shorten line, then redraw your seams.\n\nStandard sizing (like US and UK XS–XL) assumes an average height, so petite and tall sewists often tweak the length. It's completely normal.\n\nSave this for your next pattern and tell us: are you usually adding or removing length? 👇\n\n#sewingpatterns #fittingtips #sewingforbeginners #sewingtips #memade",
+      "caption_fb": "Petite or tall? Here's how to change a pattern's length before you cut 📏\n\n1️⃣ Compare your measurements with the pattern\n2️⃣ Cut along the lengthen/shorten line, then spread or fold\n3️⃣ Redraw the side seams smoothly on every matching piece\n\nOur patterns come in XS–XL with US and UK sizing: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-01",
+      "format": "single",
+      "series": "Community",
+      "topic": "Dream garment you haven't dared to sew yet",
+      "slides": [
+        {
+          "type": "question",
+          "title": "What's the garment you've always wanted to sew but haven't dared to?",
+          "body": "Tell us below. Our step-by-step instructions are made to help you take that first cut.",
+          "prompt": "Comment below"
+        }
+      ],
+      "caption_ig": "New month, new sewing goals ✨\n\nWe all have that one project we keep putting off: maybe a tailored coat, a fitted dress or something with a zip that scares us a little.\n\nSo tell us: what's the garment you've always wanted to sew but haven't dared to yet? 👇\n\nOur patterns come with detailed step-by-step instructions (link in bio), so maybe November is the month 🪡\n\n#sewingcommunity #sewingpatterns #memade #isew #sewingforbeginners",
+      "caption_fb": "Happy November! ✨\n\nWhat's the one garment you've always wanted to sew but haven't dared to try yet? Tell us in the comments, we'd love to cheer you on 🪡\n\nAll our patterns come with step-by-step instructions and sizes XS–XL:\nhttps://www.patternperfection.store/collections/all"
+    }
+  ]
+}
