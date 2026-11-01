@@ -1,0 +1,122 @@
+{
+  "week_of": "2026-11-02",
+  "posts": [
+    {
+      "date": "2026-11-02",
+      "format": "carousel",
+      "series": "Sewing basics",
+      "topic": "How to sew a dart: mark, fold, stitch to a point",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "How to sew a neat dart in 3 steps",
+          "subtitle": "Darts turn flat fabric into a shape that follows your body. Here's how to sew them without puckers.",
+          "icon": "dart"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Transfer the markings",
+          "icon": "dots",
+          "body": "Mark the dart legs and the point on the wrong side of the fabric with chalk or a fabric pen. Use a ruler to join the dots into two straight lines."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Fold and pin",
+          "icon": "fold",
+          "body": "Fold the fabric right sides together so the two lines sit exactly on top of each other. Pin across the lines, with the heads towards the edge."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Stitch off the point",
+          "icon": "dart",
+          "body": "Sew from the wide end towards the point, with the last few stitches right on the fold. Leave long threads and tie a knot instead of backstitching."
+        },
+        {
+          "type": "cta",
+          "title": "Save this for sewing day",
+          "body": "Our patterns mark every dart clearly and walk you through each step, so shaping feels easy.",
+          "button": "patternperfection.store"
+        }
+      ],
+      "caption_ig": "Darts look tricky, but they're just a fold sewn into a point 🪡\n\nSwipe for the 3 steps: transfer the markings, fold and pin, then stitch off the point.\n\nThe secret to no puckers? Let the last few stitches run right along the fold, then tie off the threads instead of backstitching.\n\nSave this for your next project and tell us: do you love or dread darts? 👇\n\n#sewingforbeginners #sewingtips #learntosew #sewingpatterns #isew",
+      "caption_fb": "Darts give your garment shape, and they're easier than they look 🪡\n\n1️⃣ Transfer the dart markings to the wrong side of the fabric\n2️⃣ Fold so the lines match and pin across them\n3️⃣ Stitch towards the point and tie off the threads\n\nOur patterns explain every step clearly: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-04",
+      "format": "single",
+      "series": "Fabric tip",
+      "topic": "Match your machine needle to your fabric",
+      "slides": [
+        {
+          "type": "single_tip",
+          "title": "Pick the right needle for your fabric",
+          "body": "Use a ballpoint or jersey needle for knits, a universal needle for everyday cottons and a fine sharp needle for silky fabrics. Skipped stitches? Try a fresh needle first."
+        }
+      ],
+      "caption_ig": "Skipped stitches, snags or little holes in your fabric? The needle might be the problem, not you 🧵\n\nKnits like jersey and sweatshirt fleece love a ballpoint or jersey needle. Everyday cottons are happy with a universal. Silky, fine fabrics need a sharp, fine needle.\n\nAnd if your stitches suddenly misbehave, swap in a fresh needle before anything else ✨\n\nWhen did you last change yours? Be honest 😅\n\n#sewingtips #fabric #sewingforbeginners #sewinghacks #isew",
+      "caption_fb": "Quick fabric tip: your needle matters more than you think 🧵\n\nBallpoint or jersey needles for knits, universal needles for everyday cottons, and fine sharp needles for silky fabrics. If your machine starts skipping stitches, a fresh needle often fixes it.\n\nWhich needle is in your machine right now? 😄"
+    },
+    {
+      "date": "2026-11-06",
+      "format": "carousel",
+      "series": "Fit & sizing",
+      "topic": "Testing your size with a toile (muslin)",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Test your size with a quick toile",
+          "subtitle": "Picked your size from the XS–XL chart? A practice version shows you the fit before you cut your good fabric.",
+          "icon": "hanger"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Use inexpensive fabric",
+          "icon": "scissors",
+          "body": "Cut the main pieces from calico, an old sheet or cheap fabric with a similar weight and stretch to your final fabric. Skip facings, pockets and linings."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Sew the main seams",
+          "icon": "notch",
+          "body": "Use a long stitch so it's easy to unpick. Sew the shoulders, side seams and darts, and baste in a zip or pin the opening closed."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Try it on and mark",
+          "icon": "tape",
+          "body": "Check the bust, waist, hip and length in front of a mirror. Pin out extra fabric or note where it pulls, then copy the changes onto your pattern."
+        },
+        {
+          "type": "cta",
+          "title": "Sew it once, fit it right",
+          "body": "Every pattern comes in sizes XS–XL with US and UK sizing, so your toile starts close.",
+          "button": "Shop the patterns"
+        }
+      ],
+      "caption_ig": "Nervous about cutting into that beautiful fabric? Make a toile first 🪡\n\nA toile (or muslin, in the US) is a quick practice version of your garment in cheap fabric. Swipe for how to make one in 3 steps.\n\nPick your size from the XS–XL chart with US & UK sizing, sew the main seams, then try it on and adjust the pattern before the real thing.\n\nSave this and tell us: do you make a toile, or go straight in? 👇\n\n#sewingpatterns #fittingtips #sewingforbeginners #sewingtips #memade",
+      "caption_fb": "Want a perfect fit first time? Try a toile 🪡\n\n1️⃣ Cut the main pieces from inexpensive fabric\n2️⃣ Sew the main seams with a long, easy-to-unpick stitch\n3️⃣ Try it on, mark the changes and copy them to your pattern\n\nOur patterns come in XS–XL with US and UK sizing: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-08",
+      "format": "single",
+      "series": "Community",
+      "topic": "The first garment you ever sewed",
+      "slides": [
+        {
+          "type": "question",
+          "title": "What was the very first garment you ever sewed?",
+          "body": "Perfect or wonky, we want to hear about it. And what are you sewing next?",
+          "prompt": "Tell us below"
+        }
+      ],
+      "caption_ig": "Let's take a trip down memory lane 🧵\n\nEveryone remembers their first make: the crooked seams, the pride, maybe a zip that never quite closed.\n\nSo tell us: what was the very first garment you ever sewed? And what's next on your machine? 👇\n\nIf you're looking for your next project, our patterns come with step-by-step instructions in sizes XS–XL (link in bio) 🪡\n\n#sewingcommunity #sewingpatterns #memade #isew #sewingforbeginners",
+      "caption_fb": "Sunday question for our sewing community 🧵\n\nWhat was the very first garment you ever sewed? Perfect or wonky, we'd love to hear the story in the comments!\n\nReady for your next project? All our patterns come with step-by-step instructions and sizes XS–XL:\nhttps://www.patternperfection.store/collections/all"
+    }
+  ]
+}
