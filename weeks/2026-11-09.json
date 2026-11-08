@@ -1,0 +1,123 @@
+{
+  "week_of": "2026-11-09",
+  "posts": [
+    {
+      "date": "2026-11-09",
+      "format": "carousel",
+      "series": "Sewing basics",
+      "topic": "Finishing seam edges: zigzag, pinking, French seams",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "3 easy ways to finish your seams",
+          "subtitle": "Stop fraying in its tracks and make the inside of your garment look as good as the outside.",
+          "icon": "scissors"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Zigzag the edges",
+          "icon": "dots",
+          "body": "No overlocker? No problem. Sew a medium zigzag along each raw edge of the seam allowance so the stitches wrap the edge and stop it fraying."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Pinking shears",
+          "icon": "scissors",
+          "body": "Trim the seam allowance with pinking shears. The little zigzag cut slows fraying on stable woven cottons. It's quick, but best for garments that won't be washed constantly."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "The French seam",
+          "icon": "fold",
+          "body": "Sew wrong sides together, trim close, then fold and sew again with right sides together. The raw edges are sealed inside. Perfect for sheer and lightweight fabrics."
+        },
+        {
+          "type": "cta",
+          "title": "Save this for sewing day",
+          "body": "Our step-by-step instructions guide you through every seam, from the first stitch to the final press.",
+          "button": "patternperfection.store"
+        }
+      ],
+      "caption_ig": "The inside of your garment deserves some love too 🪡\n\nUnfinished seams fray every time you wash them. Swipe for 3 easy ways to finish them: zigzag, pinking shears and the classic French seam.\n\nNo overlocker needed for any of them, just your regular machine (and a pair of pinking shears for number 2) ✂️\n\nSave this for your next project and tell us: which finish is your go-to? 👇\n\n#sewingforbeginners #sewingtips #learntosew #sewingpatterns #isew",
+      "caption_fb": "Fraying seams? Here are 3 easy ways to finish them, no overlocker needed 🪡\n\n1️⃣ Zigzag stitch along each raw edge\n2️⃣ Trim with pinking shears (great for stable cottons)\n3️⃣ French seam: raw edges sealed inside, perfect for lightweight fabrics\n\nOur patterns come with clear step-by-step instructions: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-11",
+      "format": "single",
+      "series": "Fabric tip",
+      "topic": "Finding the right side of the fabric using the selvedge",
+      "slides": [
+        {
+          "type": "single_tip",
+          "title": "Can't tell the right side? Check the selvedge",
+          "icon": "dots",
+          "body": "Run a finger along the tiny holes in the selvedge. The side where they feel raised is usually the right side. Printed selvedge text often reads correctly on the right side too."
+        }
+      ],
+      "caption_ig": "Plain fabric, both sides look the same... so which one is the right side? 🤔\n\nCheck the selvedge. The little holes along the edge are usually punched from the wrong side, so on the right side they feel slightly raised.\n\nIf your selvedge has printed text, it often reads correctly on the right side too ✨\n\nStill can't tell? Pick one side, mark it with chalk and stay consistent on every piece.\n\nDid you know this one? 👇\n\n#sewingtips #fabric #sewingforbeginners #sewinghacks #isew",
+      "caption_fb": "Quick fabric tip: can't tell the right side of your fabric? 🤔\n\nFeel the tiny holes along the selvedge. Where they feel raised is usually the right side, and any printed selvedge text often reads correctly on that side too.\n\nStill not sure? Choose a side, mark it with chalk, and use the same side for every piece. Did you know this trick? 😄"
+    },
+    {
+      "date": "2026-11-13",
+      "format": "carousel",
+      "series": "Fit & sizing",
+      "topic": "Understanding ease: body measurements vs finished garment measurements",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "What is ease, and why does it matter?",
+          "subtitle": "The secret behind patterns that feel comfortable, not tight. Here's how to read it before you pick your size.",
+          "icon": "size"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Body measurements come first",
+          "icon": "tape",
+          "body": "The size chart lists body measurements: your bust, waist and hip. Measure yourself and find your size from XS to XL using US or UK sizing."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Ease is the extra room",
+          "icon": "size",
+          "body": "The finished garment is bigger than your body so you can move, breathe and sit. That difference is called ease. A coat needs more ease than a fitted dress."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Compare with a favourite",
+          "icon": "hanger",
+          "body": "Lay a garment you love flat and measure it. Compare with the pattern piece, minus seam allowances, to choose a little more or less ease."
+        },
+        {
+          "type": "cta",
+          "title": "Find your perfect fit",
+          "body": "Every pattern includes sizes XS–XL with US and UK sizing and a clear size chart.",
+          "button": "Shop the patterns"
+        }
+      ],
+      "caption_ig": "Ever sewn your exact size and it still felt too tight, or way too roomy? Meet ease 📏\n\nEase is the extra room between your body and the finished garment. It's what lets you move, sit and breathe.\n\nSwipe for how to use it: start with your body measurements, understand the extra room, then compare with a garment you already love.\n\nAll our patterns come in XS–XL with US & UK sizing. Save this for your next make 🪡\n\n#sewingpatterns #fittingtips #sewingforbeginners #sewingtips #memade",
+      "caption_fb": "What is ease, and why does it matter? 📏\n\n1️⃣ Pick your size from your body measurements on the size chart\n2️⃣ Ease is the extra room the garment has so you can move comfortably\n3️⃣ Measure a favourite garment and compare to choose more or less ease\n\nOur patterns come in XS–XL with US and UK sizing: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-15",
+      "format": "single",
+      "series": "Community",
+      "topic": "Your most-worn handmade garment",
+      "slides": [
+        {
+          "type": "question",
+          "title": "Which of your makes do you wear the most?",
+          "body": "The one you reach for again and again. We'd love to hear what it is and why.",
+          "prompt": "Tell us in the comments"
+        }
+      ],
+      "caption_ig": "Every sewist has one: the handmade piece that's always in the wash because you wear it constantly 🧵\n\nSo tell us: which handmade garment do you wear more than anything else? Is it the fit, the fabric, or just the pride of making it yourself?\n\nShare it in the comments 👇\n\nLooking for your next favourite? Our patterns come with step-by-step instructions in sizes XS–XL (link in bio) 🪡\n\n#sewingcommunity #sewingpatterns #memade #isew #handmadewardrobe",
+      "caption_fb": "Sunday question for our sewing community 🧵\n\nWhich handmade garment do you wear more than anything else? Tell us what it is and why you love it in the comments!\n\nReady to sew your next favourite? All our patterns come with step-by-step instructions and sizes XS–XL:\nhttps://www.patternperfection.store/collections/all"
+    }
+  ]
+}
