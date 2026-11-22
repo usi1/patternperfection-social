@@ -1,0 +1,121 @@
+{
+  "week_of": "2026-11-23",
+  "posts": [
+    {
+      "date": "2026-11-23",
+      "format": "carousel",
+      "series": "Sewing basics",
+      "topic": "Clipping and notching curved seams",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Smooth curves: clip and notch your seams",
+          "subtitle": "The small snip that turns lumpy necklines and puckered curves into crisp, flat edges.",
+          "icon": "scissors"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Why curves need help",
+          "body": "When you turn a curved seam, the seam allowance has to stretch or squash to fit. Without a little help it pulls and bunches, so the edge never lies flat."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Clip inward curves",
+          "icon": "scissors",
+          "body": "On a concave curve, like a neckline, cut small straight slits into the seam allowance. They open up when you turn it, so the edge can spread smoothly."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Notch outward curves",
+          "icon": "notch",
+          "body": "On a convex curve, like a rounded collar, cut out tiny V shapes. Removing that extra fabric stops bulky ridges. Always stop just short of your stitching line."
+        },
+        {
+          "type": "cta",
+          "title": "Save this for sewing day",
+          "body": "Our step-by-step instructions tell you exactly when to clip and when to notch.",
+          "button": "patternperfection.store"
+        }
+      ],
+      "caption_ig": "Lumpy neckline? Puckered curve? The fix takes about 30 seconds and a pair of sharp scissors ✂️\n\nSwipe to learn when to clip and when to notch: slits for inward curves, little V shapes for outward curves.\n\nGolden rule: never cut through your stitching line!\n\nSave this for your next neckline or collar 🪡\n\n#sewingforbeginners #sewingtips #learntosew #sewingpatterns #isew",
+      "caption_fb": "The secret to smooth, flat curves? A few careful snips ✂️\n\n1️⃣ Curves need help to lie flat after turning\n2️⃣ Inward curves (like necklines): clip small slits\n3️⃣ Outward curves (like collars): notch out tiny V shapes\n\nJust never cut through the stitching! Our patterns guide you step by step: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-25",
+      "format": "single",
+      "series": "Fabric tip",
+      "topic": "Do a stretch test before choosing a knit fabric",
+      "slides": [
+        {
+          "type": "single_tip",
+          "title": "Do a stretch test before buying knit fabric",
+          "icon": "tape",
+          "body": "Hold 10 cm of knit against a ruler and gently stretch it. If it reaches 15 cm, that's 50% stretch. Check your pattern's recommendation first."
+        }
+      ],
+      "caption_ig": "Not all knits are created equal, and the wrong stretch can ruin the fit 📏\n\nTry this quick test: hold 10 cm of fabric against a ruler and gently pull. Reaches 15 cm? That's 50% stretch.\n\nCheck what your pattern recommends, then pick a knit that matches. Too little stretch feels tight, too much can grow and sag.\n\nDid you know this trick? Tell us below 👇\n\n#sewingtips #knitfabric #fabric #sewingforbeginners #isew",
+      "caption_fb": "Quick fabric tip for knit projects 📏\n\nBefore you buy a knit, do a stretch test: hold 10 cm against a ruler and gently stretch it. If it reaches 15 cm, it has 50% stretch.\n\nMatch it to what your pattern recommends and your garment will fit the way it should. Have you tried this before?"
+    },
+    {
+      "date": "2026-11-27",
+      "format": "carousel",
+      "series": "Fit & sizing",
+      "topic": "Checking sleeve fit: upper arm width and sleeve length",
+      "slides": [
+        {
+          "type": "cover",
+          "title": "Sleeves that fit: 3 quick checks",
+          "subtitle": "Tight upper arms or sleeves that stop short? Check these before you cut your fabric.",
+          "icon": "hanger"
+        },
+        {
+          "type": "point",
+          "number": 1,
+          "title": "Measure your upper arm",
+          "icon": "tape",
+          "body": "Measure around the fullest part of your upper arm. Then measure the sleeve pattern across the underarm. The sleeve should be a few centimetres wider for comfort."
+        },
+        {
+          "type": "point",
+          "number": 2,
+          "title": "Check the sleeve length",
+          "body": "Measure from your shoulder point to your wrist with your elbow slightly bent. Compare it with the sleeve pattern and use its adjustment lines to lengthen or shorten."
+        },
+        {
+          "type": "point",
+          "number": 3,
+          "title": "Add width evenly",
+          "icon": "grade",
+          "body": "Need more room? Add half the extra width to each side of the sleeve seam at the underarm, then taper smoothly back to your size at the wrist."
+        },
+        {
+          "type": "cta",
+          "title": "Find your perfect fit",
+          "body": "Every pattern includes sizes XS–XL with US and UK sizing and a clear size chart.",
+          "button": "Shop the patterns"
+        }
+      ],
+      "caption_ig": "A sleeve that's too tight or too short can make a whole garment feel wrong 💪\n\nSwipe for 3 quick checks: measure your upper arm, check the sleeve length, and add width evenly if you need it.\n\nAll our patterns come in XS–XL with US & UK sizing, so you have a great starting point for every fit tweak.\n\nSave this before your next project with sleeves 🪡\n\n#sewingpatterns #fittingtips #sewingforbeginners #sewingtips #memade",
+      "caption_fb": "Do your sleeves fit the way they should? 💪\n\n1️⃣ Measure your upper arm and compare with the sleeve at the underarm\n2️⃣ Check the sleeve length from shoulder to wrist\n3️⃣ Need more room? Add width evenly on both sides, tapering to the wrist\n\nOur patterns come in XS–XL with US and UK sizing: https://www.patternperfection.store/collections/all"
+    },
+    {
+      "date": "2026-11-29",
+      "format": "single",
+      "series": "Community",
+      "topic": "The sewing skill you want to master this winter",
+      "slides": [
+        {
+          "type": "question",
+          "title": "Winter sewing goals: which skill will you master next?",
+          "body": "Zips, buttonholes, collars or perfect fit? Our step-by-step instructions are here to help.",
+          "prompt": "Tell us in the comments"
+        }
+      ],
+      "caption_ig": "Winter is the perfect season to level up your sewing ❄️\n\nSo tell us: which skill is on your list?\n\n🤐 Zips\n🔘 Buttonholes\n👔 Collars\n📏 Perfect fit\n\nComment below 👇 and we might cover it in a future post! Our patterns come with step-by-step instructions in sizes XS–XL (link in bio).\n\n#sewingcommunity #sewingpatterns #learntosew #memade #isew",
+      "caption_fb": "Sunday question for our sewing community ❄️\n\nWhich sewing skill do you want to master this winter: zips, buttonholes, collars or getting the perfect fit? Tell us in the comments, and we might turn your answers into future tips!\n\nAll our patterns come with step-by-step instructions and sizes XS–XL:\nhttps://www.patternperfection.store/collections/all"
+    }
+  ]
+}
